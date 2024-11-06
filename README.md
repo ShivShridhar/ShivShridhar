@@ -55,7 +55,6 @@ Figma | Vercel
 - 🔄 RESTful API Design
 - 🎨 UI/UX Implementation
 - 📊 Database Management
-- 
 
 ## 📫 Let's Connect!
 
